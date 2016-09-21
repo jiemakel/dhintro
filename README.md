@@ -1,10 +1,10 @@
 # Absolute fundamentals of programming for humanists
 
-This repository is an attempt to give someone form a humanities background the **absolute basic tools** needed to start delving into programming by reading and dissecting ready-made examples that abound on the Internet.
+This repository is an attempt to give someone from a humanities background the **absolute basic tools** needed to start delving into programming by reading and dissecting ready-made examples that abound on the Internet.
 
 The core idea behind this is that nowadays, for everything in data processing or visualization one wants to do, there is a library (e.g. [Pandas](http://pandas.pydata.org/), [Mallet](http://mallet.cs.umass.edu/), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/README.html), [Matplotlib](http://matplotlib.org/), [Requests](http://docs.python-requests.org/en/latest/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [plotly](https://plot.ly/)). So, nowadays, programming is mostly reading up how on to use these libraries from their documentation, and writing glue code to hook them together to perform what one wants. This is mostly done through trial and error, and lots of googling.
 
-However, in order to understand the documentation and examples, knowledge of some fundamental concepts of programming is required.
+However, in order to understand the documentation and examples, knowledge of some **fundamental concepts of programming** is required.
 
 Therefore, the repository contains first two [Jupyter](http://jupyter.org/) notebooks that describe these core concepts in the two programming languages currently most relevant to data science: [Python](http://python.org/) and [R](https://www.r-project.org/). Jupyter notebooks are interactive notebooks that mix textual and code cells in an interactive manner, which is great for introducing programming concepts in bite-sized chunks (They also happen to be useful building blocks for [literate programming](https://en.wikipedia.org/wiki/Literate_programming) and [reproducible research](https://ropensci.org/blog/2014/06/09/reproducibility/), both important concepts in themselves for data scientists). To open them, you need Jupyter. You can either install it (through e.g. [Conda](http://conda.pydata.org/)), or just use a temporary instance at [https://try.jupyter.org/](https://try.jupyter.org/).
 
