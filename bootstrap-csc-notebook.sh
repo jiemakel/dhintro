@@ -3,10 +3,11 @@
 cd /home/jovyan/work                                                                                                                
 export GIT_COMMITTER_NAME=anonymous                                                                                                 
 export GIT_COMMITTER_EMAIL=anon@localhost                                                                                           
-git init                                                                                                                            
-git remote add origin https://github.com/jiemakel/dhintro.git                                                                       
-git fetch                                                                                                                           
-git checkout -f origin/master                                                                                                       
+git clone https://github.com/jiemakel/dhintro.git
+#git init                                                                                                                            
+#git remote add origin https://github.com/jiemakel/dhintro.git                                                                       
+#git fetch                                                                                                                           
+#git checkout -f origin/master                                                                                                       
                                                                                                                                     
 mkdir -p ~/.jupyter/custom/                                                                                                         
 wget https://raw.githubusercontent.com/csc-training/python-introduction/gh-pages/assets/custom.js -O ~/.jupyter/custom/custom.js    
