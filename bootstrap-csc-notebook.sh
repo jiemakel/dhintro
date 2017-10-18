@@ -3,6 +3,8 @@
 cd /home/jovyan/work                                                                                                                
 git config --global user.email "anon@localhost" 
 git config --global user.name "anonymous"
+export GIT_COMMITTER_NAME=anonymous                                                                                                 
+export GIT_COMMITTER_EMAIL=anon@localhost 
 if [ ! -d dhintro/.git ]
 then
     git clone https://github.com/jiemakel/dhintro.git
