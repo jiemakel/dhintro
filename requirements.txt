@@ -5,3 +5,5 @@ numpy==1.13.1
 scipy==1.1
 rpy2==2.9.4
 tzlocal==1.5.1
+gensim==3.6.0
+pyldavis==2.1.2
