@@ -1,5 +1,7 @@
 # Absolute fundamentals of programming for humanists
 
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jiemakel/dhintro/master)
+
 This repository is an attempt to give someone from a humanities background the **absolute basic tools** needed to start delving into programming by reading and dissecting ready-made examples that abound on the Internet.
 
 The core idea behind this is that nowadays, for everything in data processing or visualization one wants to do, there is a library (e.g. [Pandas](http://pandas.pydata.org/), [Mallet](http://mallet.cs.umass.edu/), [LDAvis](https://cran.r-project.org/web/packages/LDAvis/README.html), [Matplotlib](http://matplotlib.org/), [Requests](http://docs.python-requests.org/en/latest/), [tm](https://cran.r-project.org/web/packages/tm/index.html), [plotly](https://plot.ly/)). So, nowadays, programming is mostly reading up how on to use these libraries from their documentation, and writing glue code to hook them together to perform what one wants. This is mostly done through trial and error, and lots of googling.
