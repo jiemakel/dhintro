@@ -7,4 +7,4 @@ curl -L -o coursier https://git.io/coursier &&
     -o almond && ./almond --install \
     && rm almond coursier \
     && rmdir conda-bld \
-    && rm apt.txt install.R requirements.txt postBuild
+    && rm apt.txt install.R requirements.txt runtime.txt postBuild
