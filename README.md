@@ -1,6 +1,6 @@
 # Absolute fundamental concepts of programming for humanists
 
-[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jiemakel/dhintro/master)
+[![Binder](https://mybinder.org/badge.svg)](https://mybinder.org/v2/gh/jiemakel/dhintro/master) [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 This repository is an attempt to distil the **absolute minimum understanding** needed for someone from a humanities background to start delving into programming by reading and dissecting ready-made examples that abound on the Internet.
 
@@ -34,3 +34,14 @@ The fundamentals described here leave out things very important to programming i
 2. Compare the previous notebooks with [scala\_intro.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=scala_intro.ipynb). There are **three** large conceptual level differences in the design of Scala in comparison to R and Python. Which are they? Post answers as private messages to Eetu on Slack.
 3. Go through the exercise in [korp.ipynb](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=korp.ipynb)
 4. Figure out what exactly [this code](https://mybinder.org/v2/gh/jiemakel/dhintro/master?filepath=python_figure_out.ipynb) does and how it does it. 
+
+### Licensing
+
+This repository is licensed under a [Creative Commons Attribution 4.0 International License](http://creativecommons.org/licenses/by/4.0/). This means that you are free to use, embed, remix and further develop it for use in your own course or other material. The only requirement is that you give appropriate credit for this material, provide a link to the license, and indicate if changes were made (see the [license](https://creativecommons.org/licenses/by/4.0/) for more details). 
+
+If you do make use of this material, I'd naturally also appreciate a ping, as well as the possibility to merge any improvements to this version, even if neither of those is actually required by the license.
+
+(This repository is a part of the [Introduction to methods for digital humanities](http://jiemakel.gitbook.io/meth4dh) course, which carries the same license as a whole) 
+
+[![Creative Commons Attribution 4.0 International License](https://i.creativecommons.org/l/by/4.0/88x31.png)](http://creativecommons.org/licenses/by/4.0/)
+
