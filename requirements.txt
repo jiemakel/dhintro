@@ -7,3 +7,4 @@ rpy2==2.9.4
 tzlocal==1.5.1
 gensim==3.6.0
 pyldavis==2.1.2
+sos-notebook==0.17.2
