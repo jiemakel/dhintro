@@ -6,6 +6,4 @@ curl -L -o coursier https://git.io/coursier-cli &&
     && ./almond --install \
     && rm almond coursier \
     && python -m sos_notebook.install \
-    && jupyter labextension install transient-display-data \
-    && jupyter labextension install jupyterlab-sos \
     && rm apt.txt install.R requirements.txt runtime.txt postBuild
