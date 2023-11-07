@@ -7,4 +7,4 @@ tzlocal==5.2
 gensim==4.3.2
 pyldavis==3.4.1
 jupyterlab==3.4.0
-jupyterlab-sos==0.8.9
+jupyterlab-sos==0.9.0
